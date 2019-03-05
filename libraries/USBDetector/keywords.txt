@@ -1,0 +1,4 @@
+USBDetectorLib	KEYWORD1
+ConnectAndValidateUSBPower	KEYWORD2
+print	KEYWORD2
+println	KEYWORD2
